@@ -1,5 +1,4 @@
 <h1 align="center">Good Always Win</h1>
-<h3 align="center">A GitHub organization belongs user omer-awwad</h3>
 <br>
 <hr>
 <br>
