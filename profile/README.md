@@ -1,4 +1,5 @@
 <h1 align="center">Good Always Win</h1>
+A cool place for trying ideas that could solve some of problems we meet or enhance solutions to make life easier
 <br>
 <hr>
 <br>
