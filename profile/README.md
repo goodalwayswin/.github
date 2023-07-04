@@ -1,4 +1,4 @@
-<h1 align="center">This is ; Good Always Win</h1>
+<h1 align="center">Good Always Win</h1>
 <p align="left">
 </p>
 
