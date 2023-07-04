@@ -1,7 +1,4 @@
 <h1 align="center">Good Always Win</h1>
-<p align="left">
-</p>
-<h1 align="center">This is : Good Always Win</h1>
 <h3 align="center">A GitHub organization belongs user omer-awwad</h3>
 
 <p align="center">
