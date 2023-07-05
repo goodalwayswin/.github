@@ -2,7 +2,7 @@
 A cool place for trying ideas that could solve some of problems we meet or enhance solutions to make life easier
 
 
-[![GitHub](/assets/icons/github-40px.svg)](https://nodesource.com/products/nsolid)
+[![GitHub](assets/icons/github-40px.svg)](https://nodesource.com/products/nsolid)
 <hr>
 <p align="center">
 <a href="https://github.com/omer-awwad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omer-awwad" height="30" width="40" /></a>
