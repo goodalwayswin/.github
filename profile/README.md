@@ -1,5 +1,7 @@
 <h1 align="center">Good Always Win</h1>
 A cool place for trying ideas that could solve some of problems we meet or enhance solutions to make life easier
+[![GitHub](assets/icons/github.png)](https://github.com/omer-awwad)
+[![LinkedIn](assets/icons/linkedin.png)](https://linkedin.com/in/omer-ashraf-146a01202)
 <hr>
 [![GitHub](assets/icons/github.png)](https://github.com/omer-awwad)
 [![LinkedIn](assets/icons/linkedin.png)](https://linkedin.com/in/omer-ashraf-146a01202)
