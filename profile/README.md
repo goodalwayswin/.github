@@ -3,9 +3,10 @@ A cool place for trying ideas that could solve some of problems we meet or enhan
 
 
 [![GitHub](assets/icons/github-40px.svg)](https://nodesource.com/products/nsolid)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omer-awwad" height="30" width="40" />] (www.google.com)
 <hr>
 <p align="center">
-<a href="https://github.com/omer-awwad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omer-awwad" height="30" width="40" /></a>
+<a href="https://github.com/omer-awwad" target="_blank"></a>
 <a href="https://linkedin.com/in/omer-ashraf-146a01202" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-ashraf-146a01202" height="30" width="40" /></a>
 </p>
 
