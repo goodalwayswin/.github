@@ -3,7 +3,6 @@ A cool place for trying ideas that could solve some of problems we meet or enhan
 <hr>
 <p align="center">
 <a href="https://github.com/omer-awwad" target="_blank"><img align="center" src="assets/icons/github.png" alt="omer-awwad" width="40"/></a>
-
 <a href="https://linkedin.com/in/omer-ashraf-146a01202" target="_blank"><img align="center" src="assets/icons/linkedin.png" alt="omer-ashraf-146a01202" width="40" /></a>
 </p>
 
